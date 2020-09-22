@@ -253,17 +253,17 @@ Items:
       Custom-model-data: 0
       #Only available if material is CUSTOM_HEAD
       Texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTI2NWY5NmY1NGI3ODg4NWM0NmU3ZDJmODZiMWMxZGJmZTY0M2M2MDYwZmM3ZmNjOTgzNGMzZTNmZDU5NTEzNSJ9fX0="
-      Displayname: "&6Veteran Rewards"
+      Displayname: "&6Награды для ветеранов"
       Lore:
-      - "&7Rewards for the most dedicated"
-      - "&7players!"
+      - "&7Награды для самых преданных"
+      - "&7игроков!"
       Locked:
       - ""
-      - "&cYou must be YourNetwork Level {LEVEL} or"
-      - "&chigher to access this menu!"
+      - "&cУ вас должен быть уровень YourNetwork {LEVEL}"
+      - "&cили выше, чтобы получить доступ к этому меню!"
       Unlocked:
       - ""
-      - "&eClick to open veteran rewards!"
+      - "&eНажмите, чтобы открыть награды для ветеранов!"
   Previous:
     Material: ARROW #Supports "CUSTOM_HEAD"
     Custom-model-data: 0
